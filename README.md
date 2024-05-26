@@ -17,3 +17,4 @@ If you want to train a model (creating a new .h5 file) you need to run "Preproce
 - If you already have .h5 file, you just need to run "Preprocessing Data" cells and "Generate New Piece" cells. 
 
 
+Many Thanks : https://www.youtube.com/watch?v=FLr0r-QhqH0
