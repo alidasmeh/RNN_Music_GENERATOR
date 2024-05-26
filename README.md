@@ -15,7 +15,7 @@ Instruction:
 ** Warning: Training a model with this datasets on local computer can be time and compute-consuming! **
 If you want to train a model (creating a new .h5 file) you need to run "Preprocessing Data" cells and "Train a Model : Building and Creating" cells.
 - If you already have .h5 file, you just need to run "Preprocessing Data" cells and "Generate New Piece" cells. At the end of the last code cell there is a variable which is called "seed". Seed is the very first motif you most provide for the algorithm to generate the piece of music based on.
-At the end of this process there will be a MIDI file, you will find in the projec to folder. You can open that MIDI everywhere you want. 
+At the end of this process there will be a MIDI file, you will find that MIDI file in the project to folder. You can open that MIDI everywhere you want. 
 
 
 Many Thanks : https://www.youtube.com/watch?v=FLr0r-QhqH0
